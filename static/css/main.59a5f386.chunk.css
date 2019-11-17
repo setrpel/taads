@@ -1,0 +1,2 @@
+@media screen and (max-width:480px){.table-action thead{display:none}.table-action td{border:0}.table-action td:not(:last-child){display:block}.table-action td:first-child:before{content:"Nome: "}.table-action td:nth-child(2):before{content:"Sexo: "}.table-action td:nth-child(3):before{content:"Nascimento: "}.table-action td:nth-child(4):before{content:"Foto: "}.table-action td:before{font-weight:700;color:#00f;display:inline-block;width:70px}}
+/*# sourceMappingURL=main.59a5f386.chunk.css.map */
